@@ -1,18 +1,19 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: Oxtoby
+subtitle: Originals band
+image: assets/img/portfolio/studio/twelve-thumb.jpg
+alt: Oxtoby at the Hammersmith Apollo
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: Oxtoby
+  subtitle: Rock band
+  thumbnail: assets/img/portfolio/oxtoby-apollo-thumb.png
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+
+Oxtoby released the double EP "Twelve" in 2012. It's available to stream (of course), or for purchase with a bunch of bonus goodies via Bandcamp [here](https://oxtoby.bandcamp.com/album/twelve).
+
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Active: 2007 to present
+- Category: Originals, Studio, Live
 

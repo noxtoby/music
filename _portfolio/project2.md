@@ -1,18 +1,23 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/02-full.jpg
+title: Toybox
+subtitle: Rock covers band
+image: assets/img/portfolio/toybox-logo.png
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  title: Toybox
+  subtitle: Rock covers band
+  thumbnail: assets/img/portfolio/toybox-logo-thumb.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+
+Toybox is a rock covers band based in the UK.
+
+Neil Oxtoby: vocals, guitar, harmonica<br/>
+Neil's Friends: everything else
+
+
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Active: 2013 to present
+- Category: Live, Covers
 

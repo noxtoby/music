@@ -1,18 +1,26 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/03-full.jpg
-alt: 
+title: The Landlords
+subtitle: Pub rock covers band
+image: assets/img/portfolio/the-landlords-2017.jpg
+alt: Keep Exploring
 
 caption:
-  title: Finish
-  subtitle: Identity
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  title: The Landlords
+  subtitle: Pub rock covers band
+  thumbnail: assets/img/portfolio/the-landlords-logo.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+
+The Landlords is a pub and festival covers band based in St Albans, UK.
+
+John Cusworth: vocals, guitar, pub landlord <br/>
+Neil Oxtoby: guitar, vocals, harmonica<br/>
+Paul Davis: bass guitar, backing vocals<br/>
+Paul Campany: drums
+
+Former members:<br/>
+Mark Frazer: drums, pub landlord
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+- Active: 2016 to present
+- Category: Live, Covers, Pub
 

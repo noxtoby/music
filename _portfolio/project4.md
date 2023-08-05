@@ -1,18 +1,29 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/04-full.jpg
-alt: 
+title: The Pimps
+subtitle: Pub rock and backing band
+image: assets/img/portfolio/live/20130607-ThePimps.jpg
+alt: Keep Exploring
 
 caption:
-  title: Lines
-  subtitle: Branding
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  title: The Pimps
+  subtitle: Pub rock and backing band
+  thumbnail: assets/img/portfolio/live/201503-PimpMyBand.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+
+The Pimps were the house band for Pimp My Band bandaoke events from 2012 to 2016 at The Blacksmiths Arms in St Albans, UK.
+
+Mark Frazer: drums <br/>
+Neil Oxtoby: vocals, guitar, harmonica<br/>
+Paul Davis: bass guitar, backing vocals<br/>
+
+Former members:<br/>
+Mac Maclaren: vocals, guitar <br/>
+James Cowling: keys <br/>
+Chris Burgham: keys
+
+
 
 {:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
+- Active: 2012 to 2016
+- Category: Live, Covers, Pub
 
