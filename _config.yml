@@ -17,15 +17,22 @@ remote_theme: noxtoby/agency-jekyll-theme
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/music" # the subpath of your site, e.g. /blog
 
-title      : Oxtoby Music
+locale           : "en-GB"
+title            : "Neil Oxtoby (music)"
+name             : &name "Neil Oxtoby Music"
+email            : "oxtobymusic@gmail.com" #this is also the email contact forms will go to
+description      : &description "Music by night.<br/>Science by day."
+url              : "https://neiloxtoby.com/music"
+baseurl          : "" # the subpath of your site, e.g. "/blog"
+repository       : "noxtoby/music"
+
 email      : oxtobymusic@gmail.com #this is also the email contact forms will go to
-description: "Neil Oxtoby: Music by night. Science by day."
+description: "Music by night. Science by day."
 author     : Neil Oxtoby
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
 
-locale: "en-GB" # See available languages in _data/sitetext.yml
 
 analytics:
   google: 24418114 #Google Analytics tracking code here
